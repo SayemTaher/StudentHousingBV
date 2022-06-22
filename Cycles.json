@@ -1,0 +1,132 @@
+[
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": null,
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "TaskType": 0,
+    "Interval": 0
+  },
+  {
+    "Tasks": [
+      {}
+    ],
+    "StartDate": "2022-06-20T00:00:00+02:00",
+    "EndDate": "2022-06-21T00:00:00+02:00",
+    "TaskType": 1,
+    "Interval": 1
+  },
+  {
+    "Tasks": [
+      {}
+    ],
+    "StartDate": "2022-06-20T00:00:00+02:00",
+    "EndDate": "2022-06-21T00:00:00+02:00",
+    "TaskType": 0,
+    "Interval": 1
+  }
+]

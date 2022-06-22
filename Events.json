@@ -1,0 +1,74 @@
+[
+  {
+    "Student": {
+      "Name": "FirstUser",
+      "LastName": "FirstUser",
+      "Property": {
+        "Name": "SunnyVally",
+        "Location": "Eindhoven"
+      },
+      "Account": {
+        "Email": "fr@gmail.com",
+        "Password": "12",
+        "Role": 0
+      },
+      "Id": "996b6b7a-8b5d-48d3-89e6-76eced73ebe2"
+    },
+    "StartDate": "2022-06-06T00:00:00",
+    "EndDate": "2022-06-07T00:00:00",
+    "Description": "123",
+    "Property": {
+      "Name": "SunnyVally",
+      "Location": "Eindhoven"
+    },
+    "NameOfEvent": "FUevetn"
+  },
+  {
+    "Student": {
+      "Name": "You",
+      "LastName": "Me",
+      "Property": {
+        "Name": "SunnyVally",
+        "Location": "Eindhoven"
+      },
+      "Account": {
+        "Email": "We@th.l",
+        "Password": "12",
+        "Role": 0
+      },
+      "Id": "3c2775f5-d3ea-4c66-a284-4b1ac7b3a126"
+    },
+    "StartDate": "2022-06-08T00:00:00+02:00",
+    "EndDate": "2022-06-08T00:00:00+02:00",
+    "Description": "11111",
+    "Property": {
+      "Name": "SunnyVally",
+      "Location": "Eindhoven"
+    },
+    "NameOfEvent": "Myevent"
+  },
+  {
+    "Student": {
+      "Name": "You",
+      "LastName": "Me",
+      "Property": {
+        "Name": "SunnyVally",
+        "Location": "Eindhoven"
+      },
+      "Account": {
+        "Email": "We@th.l",
+        "Password": "12",
+        "Role": 0
+      },
+      "Id": "3c2775f5-d3ea-4c66-a284-4b1ac7b3a126"
+    },
+    "StartDate": "2022-06-19T00:00:00+02:00",
+    "EndDate": "2022-06-19T00:00:00+02:00",
+    "Description": "dsf",
+    "Property": {
+      "Name": "SunnyVally",
+      "Location": "Eindhoven"
+    },
+    "NameOfEvent": "xfg"
+  }
+]
